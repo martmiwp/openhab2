@@ -77,8 +77,8 @@ All optional add-ons for openHAB 2 are [available in a separate download](https:
 | ZWave | Binding |
 | InfluxDB | Persistence |
 | rrd4j | Persistence |
-| MySQL | Persistence |
 | MongoDB | Persistence |
+| MySQL | Persistence |
 | Logging | Persistence |
 | JPA | Persistence |
 | Mail | Action |
